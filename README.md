@@ -48,10 +48,7 @@
    📚 I am a Computer Engineering Student 📚
 </p>
 <p align="center">
-    💻 I freelance as a Full-Stack Developer. 💻
-</p>
-<p align="center">
-    🕹️ When I'm not busy with other tasks, I'm usually cooking up some game projects 🕹️
+    🖥️🔐 When I'm not busy with other tasks, I'm searching about cyber security documentaries. 🔐🖥️
 </p>
 
 

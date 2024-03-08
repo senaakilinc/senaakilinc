@@ -20,11 +20,11 @@
 ---
 
 <p align="center"><strong>Stats</strong></p>
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senaakilinc&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
   </a>
-</p>
+</div>
 
 ---
 
